@@ -1,5 +1,7 @@
 #ECLIPSE
 .project
 .buildpath
+.cproject
 
+/.settings
 /bin
